@@ -221,7 +221,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 artbbs.to
 0.0.0.0 artizaa.com
 0.0.0.0 cdn.auditude.com
-0.0.0.0 auth-google.site
 0.0.0.0 analytics.ff.avast.com
 0.0.0.0 api.c.avazunativeads.com
 0.0.0.0 aws-update.net
@@ -341,7 +340,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 cmytuok.top
 0.0.0.0 data.cnn.com
 0.0.0.0 www.diptanuinfo.co.cc
-0.0.0.0 adservice.google.co.in
 0.0.0.0 retrak.co.ke
 0.0.0.0 thaivictory.co.th
 0.0.0.0 c.adskeeper.co.uk
@@ -358,7 +356,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 check-activity.com.ru
 0.0.0.0 digitaltextile.com.ru
 0.0.0.0 0202.com.tw
-0.0.0.0 adservice.google.com.vn
 0.0.0.0 com-auth.site
 0.0.0.0 comericac.com
 0.0.0.0 comilar-efferiff.icu
@@ -861,8 +858,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 fdn-en.net
 0.0.0.0 ads.feedly.com
 0.0.0.0 fgddl9szdof7.com
-0.0.0.0 fgoogle.com
-0.0.0.0 www.fgoogle.com
 0.0.0.0 findtus.com
 0.0.0.0 firsttus.com
 0.0.0.0 fjrfjrsitenchdnfjr.org
@@ -911,13 +906,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 glthubse.info
 0.0.0.0 www.2468.go2cloud.org
 0.0.0.0 goldenlion.sg
-0.0.0.0 adservice.google.be
-0.0.0.0 marketingplatform.google.com
-0.0.0.0 smartlock.google.com
-0.0.0.0 bot2.googlerenewals.net
-0.0.0.0 linux2.googlerenewals.net
-0.0.0.0 www.googletagmanager.com
-0.0.0.0 cdn.googletoolservices.com
 0.0.0.0 goooooooooogle.com
 0.0.0.0 www.goooooooooogle.com
 0.0.0.0 govaj.com
@@ -1870,11 +1858,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 s.clcktrax.com
 
 # Added June 17, 2021
-0.0.0.0 ssl.googleanalytics.com
-0.0.0.0 click.googleanalytics.com
-0.0.0.0 alt2.googleanalytics.com
-0.0.0.0 alt4.googleanalytics.com
-0.0.0.0 sandbox.googleanalytics.com
 0.0.0.0 admobclick.com
 0.0.0.0 www.admobclick.com
 0.0.0.0 pixel.admobclick.com
@@ -2464,7 +2447,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 analytics.shein.co.uk
 
 # Added December 29, 2022
-0.0.0.0 8a97175fd63e1d3a69f36979b9b34470.safeframe.googlesyndication.com
 0.0.0.0 c2shb.pubgw.yahoo.com
 0.0.0.0 cdn.confiant-integrations.net
 0.0.0.0 cdn.hadronid.net
@@ -2520,7 +2502,6 @@ ff02::3 ip6-allhosts
 # Added February 7, 2023
 0.0.0.0 aax-dtb-cf.amazon-adsystem.com
 0.0.0.0 assets-jpcust.jwpsrv.com
-0.0.0.0 fundingchoicesmessages.google.com
 0.0.0.0 images.twnmm.com
 0.0.0.0 prod.us-east-1.cxm-bcn.publisher-services.amazon.dev
 0.0.0.0 secure.cdn.fastclick.ne
@@ -2656,7 +2637,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 logs.browser-intake-datadoghq.com
 
 # Added November 3, 2023
-0.0.0.0 b2b6d102cb7a4898bc54a3b73e31b759.safeframe.googlesyndication.com
 0.0.0.0 cpm.didna.io
 0.0.0.0 hb.minutemedia-prebid.com
 0.0.0.0 ox-rtb-us-east1.openx.net
@@ -2676,7 +2656,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 pickanewdeliverytime.com
 
 # Added November 24, 2023
-0.0.0.0 80d4b6e40cc712bf92fcdbabdd4345fd.safeframe.googlesyndication.com
 0.0.0.0 a6709203f34992a5095d2bc7ceaf2ec504f651a8.cws.conviva.com
 0.0.0.0 a.jsrdn.com
 0.0.0.0 atom.warnermedia.com
@@ -2695,7 +2674,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.i.cdn.cnn.com
 0.0.0.0 d32ajg1ye8vnl9.cloudfront.net
 0.0.0.0 dvqcs4w0eo35b.cloudfront.net
-0.0.0.0 facf31c1c8559131d653f3c5ad4ecc78.safeframe.googlesyndication.com
 0.0.0.0 i.jsrdn.com
 0.0.0.0 lb.eu-1-id5-sync.com
 0.0.0.0 live-media-lln.warnermediacdn.com
@@ -2703,7 +2681,6 @@ ff02::3 ip6-allhosts
 
 # Added November 25, 2023
 0.0.0.0 bucket.cdnwebcloud.com
-0.0.0.0 c23811bc8d067cdb4f00f6af2c918f3d.safeframe.googlesyndication.com
 0.0.0.0 cadmus.script.ac
 0.0.0.0 cdn.topsrvimp.com
 0.0.0.0 cookies.nextmillmedia.com
@@ -6833,8 +6810,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 adx.g.doubleclick.net
 0.0.0.0 bid.g.doubleclick.net
 0.0.0.0 cm.g.doubleclick.net
-0.0.0.0 googleads.g.doubleclick.net
-0.0.0.0 googleads4.g.doubleclick.net
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 stats.g.doubleclick.net
@@ -7653,7 +7628,6 @@ ff02::3 ip6-allhosts
 # [gemius.pl]
 0.0.0.0 gemius.pl
 0.0.0.0 gatr.hit.gemius.pl
-0.0.0.0 googlecm.hit.gemius.pl
 
 # [genieessp.com]
 0.0.0.0 genieessp.com
@@ -7808,33 +7782,11 @@ ff02::3 ip6-allhosts
 # [gooddata.com]
 0.0.0.0 secure.gooddata.com
 
-# [google-analytics.com]
-0.0.0.0 google-analytics.com
-0.0.0.0 ssl.google-analytics.com
-0.0.0.0 www.google-analytics.com
 
-# [google.com]
-0.0.0.0 ads.google.com
-0.0.0.0 adservice.google.com
-0.0.0.0 s0-2mdn-net.l.google.com
 
-# [googleadservices.com]
-0.0.0.0 googleadservices.com
-0.0.0.0 pagead2.googleadservices.com
-0.0.0.0 www.googleadservices.com
 
-# [googleadsserving.cn]
-0.0.0.0 static.googleadsserving.cn
 
-# [googlesyndication.com]
-0.0.0.0 googlesyndication.com
-0.0.0.0 ade.googlesyndication.com
-0.0.0.0 pagead.googlesyndication.com
-0.0.0.0 pagead2.googlesyndication.com
-0.0.0.0 tpc.googlesyndication.com
 
-# [googleusercontent.com]
-0.0.0.0 displayads-formats.googleusercontent.com
 
 # [gop1.co]
 0.0.0.0 gop1.co
@@ -17037,7 +16989,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 goggl.com
 0.0.0.0 goldbye.vicp.net
 0.0.0.0 gom-player.gooofull.com
-0.0.0.0 google-docs.org
 0.0.0.0 googlwe.com
 0.0.0.0 goolegames.com
 0.0.0.0 goolges.com
@@ -17848,7 +17799,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ww4.tongji123.com
 0.0.0.0 wwaol.com
 0.0.0.0 wwfsable.com
-0.0.0.0 www-google.nl
 0.0.0.0 www.1001movies.com
 0.0.0.0 www.105vibe.com
 0.0.0.0 www.11hour.com
@@ -18140,8 +18090,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.globalcharge.com
 0.0.0.0 www.go777site.com
 0.0.0.0 www.goggl.com
-0.0.0.0 www.google-docs.org
-0.0.0.0 www.googlew.com
 0.0.0.0 www.googlre.com
 0.0.0.0 www.googlwe.com
 0.0.0.0 www.goolegames.com
@@ -18550,7 +18498,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.writingassociates.com
 0.0.0.0 www.wwaol.com
 0.0.0.0 www.wwfsable.com
-0.0.0.0 www.www-google.nl
 0.0.0.0 www.www4search.net
 0.0.0.0 www.wwwadultcheck.com
 0.0.0.0 www.wwwal.com
@@ -18563,7 +18510,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.wwwcnnnews.com
 0.0.0.0 www.wwwdollar.com
 0.0.0.0 www.wwwgameshark.com
-0.0.0.0 www.wwwgoogles.com
 0.0.0.0 www.wwwnwa.com
 0.0.0.0 www.wwwoldnavy.com
 0.0.0.0 www.wwwplaysite.com
@@ -18612,7 +18558,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 wwwcnnnews.com
 0.0.0.0 wwwdollar.com
 0.0.0.0 wwwgmacmortgage.com
-0.0.0.0 wwwgoogles.com
 0.0.0.0 wwwnwa.com
 0.0.0.0 wwwplaysite.com
 0.0.0.0 wwwrealator.com
@@ -18863,7 +18808,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 12u.info
 0.0.0.0 12xhardcore.com
 0.0.0.0 1314dh.com
-0.0.0.0 13453765871837679316.googlegroups.com
 0.0.0.0 138shenbosbo.com
 0.0.0.0 13tabs.com
 0.0.0.0 14b.info
@@ -21205,7 +21149,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 onapp.haravan.com
 #[hara.vn]
 0.0.0.0 facebook-ads.hara.vn
-0.0.0.0 google-ads.hara.vn
 0.0.0.0 stats.hara.vn
 0.0.0.0 tiktok-ads.hara.vn
 #[starseed.fr]
@@ -21314,9 +21257,6 @@ ff02::3 ip6-allhosts
 #[sapoapps.vn]
 0.0.0.0 blogstatistics.sapoapps.vn
 0.0.0.0 bwstatistics.sapoapps.vn
-0.0.0.0 google-shopping-v2.sapoapps.vn
-0.0.0.0 google-shopping.sapoapps.vn
-0.0.0.0 googleshopping.sapoapps.vn
 0.0.0.0 popup.sapoapps.vn
 0.0.0.0 promotionbar.sapoapps.vn
 0.0.0.0 promotionpopup.sapoapps.vn
@@ -28252,7 +28192,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 b8tbite.xyz
 0.0.0.0 b9oltb.lol
 0.0.0.0 b34c.space
-0.0.0.0 b8358c79.google-comsearchclientfirefoxqtranslate.pages.dev
 0.0.0.0 b-0by9.cfd
 0.0.0.0 b-3avj.cfd
 0.0.0.0 b-9ozo.cfd
@@ -31114,7 +31053,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 clothingpackages.com
 0.0.0.0 clothingtrendz.com
 0.0.0.0 cloturesetrampesoutaouais.com
-0.0.0.0 cloud-google.delmundo.evai.pl
 0.0.0.0 cloud-lockbox.com
 0.0.0.0 cloudforge.bond
 0.0.0.0 cloudioum.com
@@ -37060,10 +36998,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 goodsanime.com
 0.0.0.0 goody-gold.com
 0.0.0.0 goodyearazrealtor.com
-0.0.0.0 googleappsheet.com
-0.0.0.0 googleguides.com
-0.0.0.0 googlep1ay.com
-0.0.0.0 googleplateform.com
 0.0.0.0 googlyboy.com
 0.0.0.0 goontariogo.com
 0.0.0.0 gooooootoooooo.com
@@ -42390,7 +42324,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 livefuelstrong.com
 0.0.0.0 livegazeta.click
 0.0.0.0 livegirlchats.com
-0.0.0.0 livegoogle.com
 0.0.0.0 liveinpost.buzz
 0.0.0.0 liveinstantnews.shop
 0.0.0.0 livelifehealthierlonger.com
@@ -60779,7 +60712,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.b8tbite.xyz
 0.0.0.0 www.b9oltb.lol
 0.0.0.0 www.b34c.space
-0.0.0.0 www.b8358c79.google-comsearchclientfirefoxqtranslate.pages.dev
 0.0.0.0 www.b-0by9.cfd
 0.0.0.0 www.b-3avj.cfd
 0.0.0.0 www.b-9ozo.cfd
@@ -63641,7 +63573,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.clothingpackages.com
 0.0.0.0 www.clothingtrendz.com
 0.0.0.0 www.cloturesetrampesoutaouais.com
-0.0.0.0 www.cloud-google.delmundo.evai.pl
 0.0.0.0 www.cloud-lockbox.com
 0.0.0.0 www.cloudforge.bond
 0.0.0.0 www.cloudioum.com
@@ -69587,10 +69518,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.goodsanime.com
 0.0.0.0 www.goody-gold.com
 0.0.0.0 www.goodyearazrealtor.com
-0.0.0.0 www.googleappsheet.com
-0.0.0.0 www.googleguides.com
-0.0.0.0 www.googlep1ay.com
-0.0.0.0 www.googleplateform.com
 0.0.0.0 www.googlyboy.com
 0.0.0.0 www.goontariogo.com
 0.0.0.0 www.gooooootoooooo.com
@@ -74917,7 +74844,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.livefuelstrong.com
 0.0.0.0 www.livegazeta.click
 0.0.0.0 www.livegirlchats.com
-0.0.0.0 www.livegoogle.com
 0.0.0.0 www.liveinpost.buzz
 0.0.0.0 www.liveinstantnews.shop
 0.0.0.0 www.livelifehealthierlonger.com
@@ -100219,7 +100145,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 mt12.mtree.com
 0.0.0.0 mt15.mtree.com
 0.0.0.0 mt32.mtree.com
-0.0.0.0 mt34.mtree.com #[Google.Diagnostic]
 0.0.0.0 mt35.mtree.com
 0.0.0.0 mt37.mtree.com
 0.0.0.0 mt55.mtree.com #[Troj/Istbar-BL]
@@ -100998,7 +100923,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 trax.prostrax.com
 0.0.0.0 vid-io-dub.springserve.com
 0.0.0.0 admediator.unityads.unity3d.com
-# 0.0.0.0 wurfl.io #[affects Google]
 # [Amazon.com][AS16509][54.176.0.0 - 54.191.255.255]
 0.0.0.0 www.cloudtracked.com
 0.0.0.0 za-ssl.effectivemeasure.net
@@ -102439,7 +102363,6 @@ ff02::3 ip6-allhosts
 # [Godaddy.com][AS26496][72.167.0.0 - 72.167.255.255]
 # [Godaddy.com][97.74.0.0 - 97.74.255.255]
 0.0.0.0 highpro1.com
-# [Google][AS15169][104.154.0.0 - 104.199.255.255]
 0.0.0.0 adexchangeprediction.com
 0.0.0.0 static-trackers.adtarget.me
 0.0.0.0 www.buzzadnetwork.com
@@ -102451,12 +102374,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.pureadexchange.com
 0.0.0.0 pwrfcia.com
 0.0.0.0 www.tradeadexchange.com
-# [Google][AS15169][107.178.192.0 - 107.178.255.255]
 0.0.0.0 t.grtyb.com
 0.0.0.0 ado.pro-market.net
-# [Google][AS15169][108.170.192.0 - 108.170.255.255]
 0.0.0.0 conversion-pixel.invitemedia.com
-# [Google][AS15169][130.211.0.0 - 130.211.255.255]
 0.0.0.0 tracker.departapp.com
 0.0.0.0 e100.yt.srs.doubleverify.com
 0.0.0.0 e101.yt.srs.doubleverify.com
@@ -102472,7 +102392,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 e111.yt.srs.doubleverify.com
 0.0.0.0 e112.yt.srs.doubleverify.com
 0.0.0.0 opentag-stats.qubit.com
-# [Google][AS15169][172.217.0.0 - 172.217.255.255]
 0.0.0.0 3642305.fls.doubleclick.net
 0.0.0.0 3765329.fls.doubleclick.net
 0.0.0.0 4514783.fls.doubleclick.net
@@ -102485,30 +102404,17 @@ ff02::3 ip6-allhosts
 0.0.0.0 pagead.l.doubleclick.net
 0.0.0.0 pagead46.l.doubleclick.net
 0.0.0.0 undefined.fls.doubleclick.net
-0.0.0.0 pagead-googlehosted.l.google.com
-# [Google][AS15169][173.194.0.0 - 173.194.255.255]
 0.0.0.0 5362399.fls.doubleclick.net
-0.0.0.0 video-ad-stats.googlesyndication.com
-# 0.0.0.0 redirector.googlevideo.com #[affects video playback]
-# [Google / DoubleClick][AS15169][173.194.0.0 - 173.194.255.255]
 0.0.0.0 dp.g.doubleclick.net
 0.0.0.0 service.urchin.com #[Urchin Tracking Module]
-# [Google / DoubleClick][AS15169][209.85.128.0 - 209.85.255.255]
-0.0.0.0 analytics-api-samples.googlecode.com
-# [Google][AS15169][216.58.192.0 - 216.58.223.255]
 0.0.0.0 www.adsensecustomsearchads.com
 0.0.0.0 1435575.fls.doubleclick.net
 0.0.0.0 2542116.fls.doubleclick.net
 0.0.0.0 4053494.fls.doubleclick.net
 0.0.0.0 4236808.fls.doubleclick.net
-# 0.0.0.0 www.googletagmanager.com #[affects ASUS]
-# [Google / DoubleClick][AS6432][216.73.80.0 - 216.73.95.255]
 0.0.0.0 www3.webhostingtalk.com
-# [Google][AS15169][23.236.128.0 - 23.251.159.255]
-# [Google][AS15169][34.64.0.0/11]
 0.0.0.0 analytics.inform.com
 0.0.0.0 track.searchiq.co
-# [Google][AS15169][35.184.0.0 - 35.240.255.255]
 0.0.0.0 adexchangedirect.com
 0.0.0.0 cleardexchange.com
 0.0.0.0 stats.directexpose.com
@@ -102517,7 +102423,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 track.special-promotions.online
 0.0.0.0 stats.tiebreaker.com
 0.0.0.0 click.udimg.com
-# [Google / DoubleClick][AS15169][64.233.160.0 - 64.233.191.255]
 0.0.0.0 m1.2mdn.net
 0.0.0.0 n339.asp-cc.com
 0.0.0.0 ads.cc-dt.com
@@ -102588,9 +102493,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.doubleclick.com
 0.0.0.0 www.bt.emsecure.net
 # 0.0.0.0  www.youtube-nocookie.com #[affects various videos]
-# [Google / DoubleClick][AS15169][66.249.64.0 - 66.249.95.255]
 0.0.0.0 ad.rs.doubleclick.net
-# [Google / DoubleClick][AS15169][72.14.192.0 - 72.14.255.255]
 0.0.0.0 affiliate.2mdn.net
 # 0.0.0.0  s0.2mdn.net #[affects video stream]
 # 0.0.0.0  static.2mdn.net #[affects Youtube]
@@ -102599,9 +102502,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ad.mo.doubleclick.net
 0.0.0.0 adclick.g.doubleclick.net
 0.0.0.0 gan.doubleclick.net
-0.0.0.0 googleads2.g.doubleclick.net
 0.0.0.0 n4061ad.hk.doubleclick.net
-# [Google / DoubleClick][AS15169][74.125.0.0 - 74.125.255.255]
 0.0.0.0 c.admob.com
 0.0.0.0 code.adtlgc.com
 0.0.0.0 ip-geo.appspot.com
@@ -102609,11 +102510,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ad-ace.doubleclick.net
 0.0.0.0 ad.bg.doubleclick.net
 0.0.0.0 fls.au.doubleclick.net
-0.0.0.0 www.doubleclickbygoogle.com
-0.0.0.0 video-stats.video.google.com
-0.0.0.0 4.afs.googleadservices.com
-0.0.0.0 partner.googleadservices.com
-0.0.0.0 www.googletagservices.com
 0.0.0.0 www.linksalpha.com
 # [Gossamer][AS36483][172.255.48.0 - 172.255.63.255]
 0.0.0.0 adbetnet.advertserve.com
@@ -103429,7 +103325,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 demoq.use-trade.com
 0.0.0.0 richmedia.yimg.com
 # [Lightstorm Communications][AS42005][92.240.234.0 - 92.240.237.255]
-0.0.0.0 blueadvertise.com #[Google.Diagnostic][2013-01-02]
 0.0.0.0 adserver2.blueadvertise.com
 0.0.0.0 cbpublishing.blueadvertise.com
 0.0.0.0 cdxninteractive.blueadvertise.com
@@ -107401,7 +107296,6 @@ ff02::3 ip6-allhosts
 #   using the whole domain name
 # It is perhaps a better solution to use Favourites/Bookmarks instead.
 #216.34.181.45   s        # slashdot.org
-#74.125.127.105	g        # google.com
 #</shortcut-examples>
 
 #<hijack-sites>
@@ -107445,14 +107339,10 @@ ff02::3 ip6-allhosts
 				# and potentially other sites. 
 0.0.0.0 media.fastclick.net # Likewise, this may interfere with some
 #0.0.0.0 ebay.doubleclick.net		# may interfere with ebay
-#0.0.0.0 google-analytics.com			# breaks some sites
-#0.0.0.0 ssl.google-analytics.com
-#0.0.0.0 www.google-analytics.l.google.com
 #0.0.0.0 stat.livejournal.com		# There are reports that this may mess 
  					# up CSS on livejournal
 #0.0.0.0 stats.surfaid.ihost.com	# This has been known cause 
 					# problems with NPR.org
-#0.0.0.0 www.google-analytics.com		# breaks some sites
 #0.0.0.0 ads.imeem.com		# Seems to interfere with the functioning of imeem.com
 #</maybe-spy>
 
@@ -107466,7 +107356,6 @@ ff02::3 ip6-allhosts
 #0.0.0.0 t2.hulu.com		# Uncomment to block Hulu.
 #0.0.0.0 track.hulu.com	# Uncomment to block Hulu.
 #0.0.0.0 webstat.channel4.com
-#0.0.0.0 www.googletagservices.com		#interferes with techrepublic
 0.0.0.0 006.freecounters.co.uk
 0.0.0.0 0stats.com
 0.0.0.0 123counter.mycomputer.com
@@ -107784,7 +107673,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 fastcounter.linkexchange.nl
 0.0.0.0 fdbdo.com
 0.0.0.0 fi.sitestat.com
-0.0.0.0 firebaselogging.googleapis.com
 0.0.0.0 flixprice.com
 0.0.0.0 flury-ycpi.gycpi.b.yahoodns.net
 0.0.0.0 flycast.com
@@ -107807,7 +107695,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 geocounter.net
 0.0.0.0 goldstats.com
 0.0.0.0 googfle.com
-0.0.0.0 googletagservices.com
 0.0.0.0 highscanprotect.com
 0.0.0.0 hit-counter.udub.com
 0.0.0.0 hit.clickaider.com
@@ -107959,7 +107846,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 s-39.predictvideo.com
 0.0.0.0 s.bl-1.com
 0.0.0.0 s.update.fbsbx.com
-0.0.0.0 s.youtube.com # Blocking this will interfere with video watching history and may interfere with Google Podcasts
 0.0.0.0 s1-tracking.adalyser.com
 0.0.0.0 s1.shinystat.it
 0.0.0.0 s2.statcounter.com
@@ -112304,11 +112190,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 adserver2.mediainsight.de
 0.0.0.0 adserver9.contextad.com
 0.0.0.0 adserversolutions.com
-0.0.0.0 adservice.google.ca
-0.0.0.0 adservice.google.co.za
-0.0.0.0 adservice.google.com.au
-0.0.0.0 adservice.google.cz
-0.0.0.0 adservice.google.nl
 0.0.0.0 adseu.novem.pl
 0.0.0.0 adsfac.eu
 0.0.0.0 adsfac.net
@@ -112428,7 +112309,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 affiliate.a4dtracker.com
 0.0.0.0 affiliate.baazee.com
 0.0.0.0 affiliate.exabytes.com.my
-0.0.0.0 affiliate.googleusercontent.com
 0.0.0.0 affiliate.mlntracker.com
 0.0.0.0 affiliates.arvixe.com
 0.0.0.0 affiliates.eblastengine.com
@@ -112761,7 +112641,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 burns.adtech.us
 0.0.0.0 bus-offer.com
 0.0.0.0 buttcandy.com
-0.0.0.0 buttons.googlesyndication.com
 0.0.0.0 buzzadnetwork.com
 0.0.0.0 bwp.lastfm.com.com
 0.0.0.0 c.actiondesk.com
@@ -113216,7 +113095,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 draco-artgallery.wz.cz
 0.0.0.0 drecentreshu.info
 0.0.0.0 drivingschoolburlington.ca
-0.0.0.0 drm-google-analtyic.com
 0.0.0.0 drm-server-booking.com
 0.0.0.0 drm-server13-login-microsoftonline.com
 0.0.0.0 dropbox-download-eu.com
@@ -113521,7 +113399,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 gocarosel.com
 0.0.0.0 goldbach.hit.gemius.pl
 0.0.0.0 goodbookbook.com
-0.0.0.0 googledrive-en.com
 0.0.0.0 goplayz.com
 0.0.0.0 got2goshop.com
 0.0.0.0 goto.trafficmultiplier.com
@@ -115179,7 +115056,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 stat.rolledwil.biz
 0.0.0.0 stat2.corp.56.com
 0.0.0.0 static-downloads.com
-0.0.0.0 static-google-analtyic.com
 0.0.0.0 static.2mdn.net
 0.0.0.0 static.admaximize.com
 0.0.0.0 static.adsonar.com
@@ -117797,7 +117673,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 adsee.jp
 0.0.0.0 adsensecustomsearchads.com
 0.0.0.0 adserver.cxad.cxense.com
-0.0.0.0 adservice.google.co.jp
 0.0.0.0 adsnative.com
 0.0.0.0 adsp.i2idata.com
 0.0.0.0 adsp1.i2i.jp
@@ -118760,7 +118635,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 srt-srv.xlisting.jp
 0.0.0.0 srv1.aaacompany.net
 0.0.0.0 ssend.microad.jp
-0.0.0.0 ssl-google-analytics.l.google.com
 0.0.0.0 ssl.socdm.com
 0.0.0.0 ssl.webtracker.jp
 0.0.0.0 ssp-sync.i-mobile.co.jp
@@ -119741,7 +119615,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 adserverplus.com
 0.0.0.0 adserverpub.com
 0.0.0.0 adserverxxl.de
-0.0.0.0 adservice.google.com.mt
 0.0.0.0 adservingfront.com
 0.0.0.0 adservrs.com
 0.0.0.0 adservrs.com.edgekey.net
@@ -119869,7 +119742,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 analytics.cohesionapps.com
 0.0.0.0 analytics.emarketer.com
 0.0.0.0 analytics.ext.go-tellm.com
-0.0.0.0 analytics.google.com
 0.0.0.0 analytics.icons8.com
 0.0.0.0 analytics.jst.ai
 0.0.0.0 analytics.justuno.com
@@ -120182,7 +120054,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 clickyab.com
 0.0.0.0 clickz.com
 0.0.0.0 clientgear.com
-0.0.0.0 clientmetrics-pa.googleapis.com
 0.0.0.0 clikerz.net
 0.0.0.0 cliksolution.com
 0.0.0.0 clixgalore.com
@@ -120249,7 +120120,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 crabbychin.com
 0.0.0.0 craktraffic.com
 0.0.0.0 crashchance.com
-0.0.0.0 crashlyticsreports-pa.googleapis.com
 0.0.0.0 cratecamera.com
 0.0.0.0 crawlability.com
 0.0.0.0 crazypopups.com
@@ -120533,8 +120403,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 go.xlirdr.com
 0.0.0.0 goingplatinum.com
 0.0.0.0 gondolagnome.com
-0.0.0.0 googleanalytics.com
-0.0.0.0 googletagmanager.com
 0.0.0.0 gothamads.com
 0.0.0.0 gotraffic.net
 0.0.0.0 gp.dejanews.com
@@ -120824,7 +120692,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 madvertise.de
 0.0.0.0 magicadz.co
 0.0.0.0 magicaljoin.com
-0.0.0.0 mail-ads.google.com
 0.0.0.0 maltiverse.lt.acemlnc.com
 0.0.0.0 manageadv.cblogs.eu
 0.0.0.0 mantisadnetwork.com
@@ -121019,7 +120886,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 offer.sponsorpay.com
 0.0.0.0 offerforge.com
 0.0.0.0 offermatica.com
-0.0.0.0 ogads-pa.googleapis.com
 0.0.0.0 oglasi.posjetnica.com
 0.0.0.0 ogury.com
 0.0.0.0 ojrq.net
@@ -121071,7 +120937,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 oxado.com
 0.0.0.0 p-n.io
 0.0.0.0 paa-reporting-advertising.amazon
-0.0.0.0 pagead.l.google.com
 0.0.0.0 pagerank-ranking.de
 0.0.0.0 pageranktop.com
 0.0.0.0 painstakingpickle.com
@@ -121087,7 +120952,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 parsimoniouspolice.com
 0.0.0.0 partner-ads.com
 0.0.0.0 partner.pelikan.cz
-0.0.0.0 partnerad.l.google.com
 0.0.0.0 partnercash.de
 0.0.0.0 partners.priceline.com
 0.0.0.0 partplanes.com
@@ -121869,7 +121733,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 widget.privy.com
 0.0.0.0 win.iqm.com
 0.0.0.0 window.nixnet.cz
-0.0.0.0 wintricksbanner.googlepages.com
 0.0.0.0 wirecomic.com
 0.0.0.0 wirypaste.com
 0.0.0.0 wisepops.com
@@ -121886,7 +121749,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 wt-eu02.net
 0.0.0.0 wtlive.com
 0.0.0.0 www-banner.chat.ru
-0.0.0.0 www-google-analytics.l.google.com
 0.0.0.0 www.dnps.com
 0.0.0.0 www.kaplanindex.com
 0.0.0.0 www.photo-ads.co.uk
