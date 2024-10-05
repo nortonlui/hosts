@@ -14293,6 +14293,10 @@ ff02::3 ip6-allhosts
 
 # [youtube.com]
 0.0.0.0 ads.youtube.com
+0.0.0.0 s.youtube.com
+0.0.0.0 wyoutube.fr
+0.0.0.0 youtube.112.2o7.net
+0.0.0.0 ehg-youtube.hitbox.com				
 
 # [yyapi.net]
 0.0.0.0 global.yyapi.net
